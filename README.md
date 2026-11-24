@@ -21,10 +21,14 @@ Portfolio yhdistää sairaanhoitajan koulutuksen, ammatillisen terveydenhuollon 
 - Brandt, M. (2026). [Silmäkuvantamisen tietojärjestelmäprosessien kehittäminen](https://urn.fi/URN:NBN:fi:amk-2026111330137). YAMK-opinnäytetyö. Haaga-Helia ammattikorkeakoulu.
 - Brandt, M. (2021). [Node-RED:in käyttö Raspberry PI tietokoneessa ja ohjelmien toteuttaminen MQTT-protokollaa hyödyntäen](https://urn.fi/URN:NBN:fi:amk-202104185053). AMK-opinnäytetyö. Haaga-Helia ammattikorkeakoulu.
 
+- Brandt, M. (2013). [Elämän matka – selkokielinen hartauskirja ikäihmisille seurakunnissa](https://www.theseus.fi/handle/10024/59751). AMK-opinnäytetyö. Diakonia-ammattikorkeakoulu.
+
 ## Todennettavat osaamisnäytöt
 
 - [YAMK 2026: asiantuntijatiedosta organisaation yhteiseksi osaamiseksi](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/#case2026) – toteutus, tutkimusmenetelmät, käyttökokeilun tulokset, kehittämisehdotukset, johtamisosaaminen ja oma reflektio. Tulokset erotettu ehdotetuista mittareista.
 - [AMK 2021: IoT, automaatio ja reaaliaikainen tiedon visualisointi](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/#case2021) – kolme toteutettua sovellusta, tiedonkäsittely, tietoturvan rajaukset ja tekninen dokumentointi.
+
+- [AMK 2013: selkokieli ja käyttäjälähtöinen kehittäminen](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/#case2013) – ikääntyneiden tarpeet, saavutettava viestintä ja käytännön materiaalin toteutus.
 
 Osaamiskuvaukset linkittävät suoraan opinnäytetöiden soveltuviin näyttöihin. Julkaisujen sivunumerot viittaavat raporttien painettuun sivunumerointiin. Sisäistä dokumentaatiota, tukitapausten sisältöä tai henkilötietoja ei julkaista.
 
@@ -39,7 +43,7 @@ Osaamiskuvaukset linkittävät suoraan opinnäytetöiden soveltuviin näyttöihi
 
 ## Toteutus
 
-Versio 4.4: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 4.5: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
 
