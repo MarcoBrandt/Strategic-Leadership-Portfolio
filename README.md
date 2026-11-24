@@ -2,7 +2,7 @@
 
 **[Avaa portfolio →](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/)**
 
-Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava kokonaisuus johtajuusteorioista, strategiatyöstä, muutosjohtamisesta, innovaatioista, prosessien kehittämisestä ja investointien arvioinnista.
+Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava kokonaisuus johtajuusteorioista, strategiatyöstä, muutosjohtamisesta, innovaatioista ja prosessien kehittämisestä.
 
 ## Koulutus
 
@@ -50,11 +50,10 @@ Osaamiskuvaukset linkittävät suoraan opinnäytetöiden soveltuviin näyttöihi
 - **03 Muutos ja riskit** – 4 aihetta: Sidosryhmien johtaminen, Muutosjohtaminen – ADKAR, Riskienhallinta, Toteutuksen tiekartta.
 - **04 Innovaatiot** – 4 aihetta: Innovaatiostrategia ja teknologiset kehityspolut, Innovaatioiden lähteet ja hakustrategiat, Dynaamiset kyvykkyydet ja organisaation oppiminen, Innovaatioportfolio.
 - **05 Prosessit ja kehittäminen** – 3 aihetta: Lean ja prosessien kehittäminen, Tutkimuksellinen kehittäminen ja opinnäytetyön menetelmät, Julkisen terveydenhuollon hallinto ja digitaalinen uudistaminen.
-- **06 Investoinnit ja päätökset** – 3 aihetta: Investointien arviointi, Skenaariosuunnittelu, Painotettu päätösmatriisi.
 
 ## Toteutus
 
-Versio 4.8: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 4.9: viisi teemaa ja 22 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
 
@@ -62,8 +61,8 @@ Käsitteet selitetään yleiskielellä, vakiintuneet tieteelliset termit säilyt
 
 ## Akateeminen lähdepohja
 
-- 32 DOI-linkitettyä tutkimusjulkaisua ja tieteellistä teosta yhteisessä [lähdeluettelossa](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/#lahteet).
-- Tutkimusnäkökulma jokaisessa 25 aiheessa, numeroviitteet sekä tutkimustyyppien erottelu.
+- 29 DOI-linkitettyä tutkimusjulkaisua ja tieteellistä teosta yhteisessä [lähdeluettelossa](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/#lahteet).
+- Tutkimusnäkökulma jokaisessa 22 aiheessa, numeroviitteet sekä tutkimustyyppien erottelu.
 - Täydentävät alkuperäiset kirja- ja standardilähteet säilytetty. Tutkimusnäyttö ja kuvitteelliset soveltamisesimerkit erotettu toisistaan.
 - Temaattinen kirjallisuusvalikoima, ei systemaattinen kirjallisuuskatsaus.
 
