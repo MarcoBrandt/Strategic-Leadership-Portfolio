@@ -8,6 +8,11 @@ Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava koko
 
 Portfolio esittelee ammatillista terveydenhuollon IT-osaamista, YAMK-opinnoissa kehitettyä strategista johtamisosaamista ja tutkimuksellista prosessien kehittämistä. Jokainen aihe alkaa henkilökohtaisella osaamiskuvauksella ja soveltamisen näkökulmalla. Teoriat ja tutkimusviitteet tukevat osaamisnäyttöjä. Kuvitteelliset analyysit eivät ole väitteitä toteutuneista hankkeista tai saavutuksista.
 
+## Julkaistut opinnäytetyöt
+
+- Brandt, M. (2026). [Silmäkuvantamisen tietojärjestelmäprosessien kehittäminen](https://urn.fi/URN:NBN:fi:amk-2026111330137). YAMK-opinnäytetyö. Haaga-Helia ammattikorkeakoulu.
+- Brandt, M. (2021). [Node-RED:in käyttö Raspberry PI tietokoneessa ja ohjelmien toteuttaminen MQTT-protokollaa hyödyntäen](https://urn.fi/URN:NBN:fi:amk-202104185053). AMK-opinnäytetyö. Haaga-Helia ammattikorkeakoulu.
+
 ## Sisältö
 
 - **01 Johtajuus** – 6 aihetta: Johtajuuden perusteet, Yksilökeskeinen johtajuus, Tiimi- ja jaettu johtajuus, Transformationaalinen ja eettinen johtajuus, Autenttinen, adaptiivinen ja kompleksisuusjohtajuus, Itsetuntemus ja johtajana kehittyminen.
@@ -19,7 +24,7 @@ Portfolio esittelee ammatillista terveydenhuollon IT-osaamista, YAMK-opinnoissa 
 
 ## Toteutus
 
-Versio 4.0: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 4.1: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
 
