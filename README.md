@@ -15,9 +15,16 @@ Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava koko
 
 ## Toteutus
 
-Versio 3.0: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 3.1: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
+
+## Akateeminen lähdepohja
+
+- 32 DOI-linkitettyä tutkimusjulkaisua ja tieteellistä teosta yhteisessä [lähdeluettelossa](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/#lahteet).
+- Tutkimusnäkökulma jokaisessa 25 aiheessa, numeroviitteet sekä tutkimustyyppien erottelu.
+- Täydentävät alkuperäiset kirja- ja standardilähteet säilytetty. Tutkimusnäyttö ja kuvitteelliset soveltamisesimerkit erotettu toisistaan.
+- Temaattinen kirjallisuusvalikoima, ei systemaattinen kirjallisuuskatsaus.
 
 ## Muut portfoliot
 
