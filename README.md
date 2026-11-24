@@ -15,9 +15,11 @@ Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava koko
 
 ## Toteutus
 
-Versio 3.1: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 3.2: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
+
+Käsitteet selitetään yleiskielellä, vakiintuneet tieteelliset termit säilytetään ja tutkimusviitteet ovat avattavissa kunkin aiheen yhteydessä.
 
 ## Akateeminen lähdepohja
 
