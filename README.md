@@ -1,51 +1,23 @@
 # Strateginen johtaminen ja innovaatiot
 
-**[Avaa portfolio verkkoselaimessa →](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/)**
+**[Avaa portfolio →](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/)**
 
-Itsenäinen ammatillinen ja akateeminen portfolio – Marco Brandt. Kokonaisuus yhdistää YAMK-opintojen johtamis- ja innovaatioteoriat käytännön päätöksentekoon. Yhteisenä kuvitteellisena kehittämistapauksena toimii terveydenhuollon kuvantamispalvelu.
+Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava kokonaisuus johtajuusteorioista, strategiatyöstä, muutosjohtamisesta, innovaatioista, prosessien kehittämisestä ja investointien arvioinnista.
 
-## Moduulit (00–25)
+## Sisältö
 
-00 – Yleiskatsaus  
-01 – Strategiakanvas  
-02 – Tavoitteet ja KPI-mittarit  
-03 – Sidosryhmäanalyysi  
-04 – Muutosvalmius  
-05 – Riskirekisteri  
-06 – Prosessien kehittäminen  
-07 – Investointien arviointi  
-08 – Skenaariosuunnittelu  
-09 – Innovaatioportfolio  
-10 – Päätösmatriisi  
-11 – Toteutuksen tiekartta  
-12 – Johtoryhmäkatsaus  
-13 – Johtajuuden perusteet  
-14 – Yksilökeskeinen johtajuus  
-15 – Tiimi- ja jaettu johtajuus  
-16 – Transformationaalinen ja eettinen johtajuus  
-17 – Autenttinen, adaptiivinen ja kompleksisuusjohtajuus  
-18 – Itsetuntemus ja johtajana kehittyminen  
-19 – Jatkuva strategiatyö ja strategiset valinnat  
-20 – VRIO, Kraljicin portfolio ja BCG  
-21 – Innovaatiostrategia ja teknologiset kehityspolut  
-22 – Innovaatioiden lähteet ja hakustrategiat  
-23 – Dynaamiset kyvykkyydet ja organisaation oppiminen  
-24 – Julkisen terveydenhuollon hallinto ja digitaalinen uudistaminen  
-25 – Tutkimuksellinen kehittäminen ja opinnäytetyön menetelmät
+- **01 Johtajuus** – 6 aihetta: Johtajuuden perusteet, Yksilökeskeinen johtajuus, Tiimi- ja jaettu johtajuus, Transformationaalinen ja eettinen johtajuus, Autenttinen, adaptiivinen ja kompleksisuusjohtajuus, Itsetuntemus ja johtajana kehittyminen.
+- **02 Strategia** – 5 aihetta: Strategiakanvas ja SWOT, Jatkuva strategiatyö ja strategiset valinnat, VRIO, Kraljicin portfolio ja BCG, Tavoitteet ja mittarit (OKR, KPI), Johtamisen kokonaiskuva.
+- **03 Muutos ja riskit** – 4 aihetta: Sidosryhmien johtaminen, Muutosjohtaminen – ADKAR, Riskienhallinta, Toteutuksen tiekartta.
+- **04 Innovaatiot** – 4 aihetta: Innovaatiostrategia ja teknologiset kehityspolut, Innovaatioiden lähteet ja hakustrategiat, Dynaamiset kyvykkyydet ja organisaation oppiminen, Innovaatioportfolio.
+- **05 Prosessit ja kehittäminen** – 3 aihetta: Lean ja prosessien kehittäminen, Tutkimuksellinen kehittäminen ja opinnäytetyön menetelmät, Julkisen terveydenhuollon hallinto ja digitaalinen uudistaminen.
+- **06 Investoinnit ja päätökset** – 3 aihetta: Investointien arviointi, Skenaariosuunnittelu, Painotettu päätösmatriisi.
 
-## Toiminnallisuudet
+## Toteutus
 
-- Interaktiiviset strategia-, muutos-, riski-, prosessi- ja investointityökalut.
-- NPV-, ROI- ja takaisinmaksuaikalaskurit, skenaariosuunnittelu sekä painotettu päätösmatriisi.
-- Johtajuuden, strategian ja innovaatioiden teoriat, soveltavat esimerkit, reflektiotehtävät ja kirjallisuuslähteet.
-- Istunnon analyysien ja reflektioiden kokoaminen johtoryhmäraportiksi sekä CSV-, JSON- ja tekstitiedostojen vienti.
-- Suomenkielinen käyttöliittymä ja sisältö; vakiintuneet kansainväliset lyhenteet ja lähdeteosten alkuperäiset nimet säilytetty.
+Versio 3.0: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
-## Käyttö
-
-Avaa `index.html` selaimessa. Ei ulkoisia ohjelmistokirjastoja, taustapalvelinta tai API-avaimia. GitHub Pages voidaan ottaa käyttöön main-haaran juurihakemistosta.
-
-Kaikki esimerkkiorganisaatiot ja luvut ovat kuvitteellisia. Portfolio ei sisällä työnantajan luottamuksellisia tietoja eikä potilastietoja. Laskelmat ovat havainnollistavia eivätkä sellaisenaan päätöksenteon perusteita. Istunnon tila nollautuu sivua ladattaessa uudelleen; tulokset voi viedä paikallisiin tiedostoihin.
+Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
 
 ## Muut portfoliot
 
