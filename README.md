@@ -4,6 +4,13 @@
 
 Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava kokonaisuus johtajuusteorioista, strategiatyöstä, muutosjohtamisesta, innovaatioista, prosessien kehittämisestä ja investointien arvioinnista.
 
+## Koulutus
+
+**Kaksi korkeakoulututkintoa – Haaga-Helia ammattikorkeakoulu**
+
+- **Tradenomi (YAMK)** – Liiketoiminnan uudistaminen ja johtaminen, strateginen johtaminen ja innovaatiot.
+- **Tradenomi (AMK)** – Tietojenkäsittely.
+
 ## Osaamisprofiili
 
 Portfolio esittelee ammatillista terveydenhuollon IT-osaamista, YAMK-opinnoissa kehitettyä strategista johtamisosaamista ja tutkimuksellista prosessien kehittämistä. Jokainen aihe alkaa henkilökohtaisella osaamiskuvauksella ja soveltamisen näkökulmalla. Teoriat ja tutkimusviitteet tukevat osaamisnäyttöjä. Kuvitteelliset analyysit eivät ole väitteitä toteutuneista hankkeista tai saavutuksista.
@@ -31,7 +38,7 @@ Osaamiskuvaukset linkittävät suoraan opinnäytetöiden soveltuviin näyttöihi
 
 ## Toteutus
 
-Versio 4.2: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 4.3: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
 
