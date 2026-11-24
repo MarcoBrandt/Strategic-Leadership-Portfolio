@@ -57,9 +57,3 @@
 28. Braun, V. & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77–101. **Menetelmäartikkeli.** https://doi.org/10.1191/1478088706qp063oa
 
 29. Bryson, J. M., Crosby, B. C. & Bloomberg, L. (2014). Public value governance: Moving beyond traditional public administration and the new public management. Public Administration Review, 74(4), 445–456. **Käsitteellinen artikkeli.** https://doi.org/10.1111/puar.12238
-
-30. Graham, J. R. & Harvey, C. R. (2001). The theory and practice of corporate finance: Evidence from the field. Journal of Financial Economics, 60(2–3), 187–243. **Empiirinen tutkimus.** https://doi.org/10.1016/S0304-405X(01)00044-7
-
-31. Amer, M., Daim, T. U. & Jetter, A. (2013). A review of scenario planning. Futures, 46, 23–40. **Kirjallisuuskatsaus.** https://doi.org/10.1016/j.futures.2012.10.003
-
-32. Belton, V. & Stewart, T. J. (2002). Multiple Criteria Decision Analysis: An Integrated Approach. Kluwer Academic Publishers. **Tieteellinen monografia.** https://doi.org/10.1007/978-1-4615-1495-4
