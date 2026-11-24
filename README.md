@@ -21,6 +21,7 @@ Portfolio yhdistää sairaanhoitajan koulutuksen, ammatillisen terveydenhuollon 
 
 - **HUS, 03/2013–:** ohjelmistoasiantuntija tietohallinnossa 06/2021 alkaen; sairaanhoitaja Meilahden Kolmiosairaalan erikoissairaanhoidon vuodeosastolla 03/2013–06/2021. Vaativa syöpäpotilaiden hoito, opiskelijaohjaus, tietojärjestelmiin liittyvät vastuut ja henkilöstön opastus.
 - **2015:** palkittu työsuoritus osaston akkreditaatiodokumentaation uudistamisesta.
+- **2022 ja 2024:** palkittu työsuorituksesta HUS Tietohallinnossa.
 - **Verkkokauppa.com, 2003–2009:** huoltotyöntekijä; tietokoneiden ja komponenttien testaus, huolto, takuukäsittely ja asiakaspalvelu.
 - **2008–2009:** työsuojeluvaltuutettu Verkkokauppa.comissa.
 
@@ -53,7 +54,7 @@ Osaamiskuvaukset linkittävät suoraan opinnäytetöiden soveltuviin näyttöihi
 
 ## Toteutus
 
-Versio 4.7: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 4.8: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
 
