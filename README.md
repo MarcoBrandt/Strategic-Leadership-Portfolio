@@ -11,10 +11,20 @@ Marco Brandtin itsenäinen ammatillinen ja akateeminen portfolio. Selattava koko
 - **Tradenomi (YAMK)** – Haaga-Helia, liiketoiminnan uudistaminen ja johtaminen, strateginen johtaminen ja innovaatiot.
 - **Tradenomi (AMK)** – Haaga-Helia, tietojenkäsittely.
 - **Sairaanhoitaja (AMK), 2013** – Diakonia-ammattikorkeakoulu (Diak).
+- **Merkonomi, 1999–2003** – Espoon Liiketalous Instituutti (ammatillinen perustutkinto).
 
 ## Osaamisprofiili
 
 Portfolio yhdistää sairaanhoitajan koulutuksen, ammatillisen terveydenhuollon IT-osaamisen, YAMK-opinnoissa kehitettyä strategista johtamisosaamista ja tutkimuksellista prosessien kehittämistä. Jokainen aihe alkaa henkilökohtaisella osaamiskuvauksella ja soveltamisen näkökulmalla. Teoriat ja tutkimusviitteet tukevat osaamisnäyttöjä. Kuvitteelliset analyysit eivät ole väitteitä toteutuneista hankkeista tai saavutuksista.
+
+## Työkokemus ja saavutukset
+
+- **HUS, 03/2013–:** nykyinen ohjelmistoasiantuntijan tehtävä terveydenhuollon tietohallinnossa; aiemmin sairaanhoitaja Meilahden Kolmiosairaalan erikoissairaanhoidon vuodeosastolla. Vaativa syöpäpotilaiden hoito, opiskelijaohjaus, tietojärjestelmiin liittyvät vastuut ja henkilöstön opastus.
+- **2015:** palkittu työsuoritus osaston akkreditaatiodokumentaation uudistamisesta.
+- **Verkkokauppa.com, 2003–2009:** huoltotyöntekijä; tietokoneiden ja komponenttien testaus, huolto, takuukäsittely ja asiakaspalvelu.
+- **2008–2009:** työsuojeluvaltuutettu Verkkokauppa.comissa.
+
+[Työhistoria portfoliossa](https://marcobrandt.github.io/Strategic-Leadership-Portfolio/#tyokokemus).
 
 ## Julkaistut opinnäytetyöt
 
@@ -43,7 +53,7 @@ Osaamiskuvaukset linkittävät suoraan opinnäytetöiden soveltuviin näyttöihi
 
 ## Toteutus
 
-Versio 4.5: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
+Versio 4.6: kuusi teemaa ja 25 aihetta yhtenäisellä, suomenkielisellä sivulla. Teoriakuvaukset, valmiit havainnollistavat esimerkit, matriisit, taulukot ja lähteet. Ei tehtäviä, lomakkeita, kirjautumista tai JavaScript-riippuvuutta. Soveltamisesimerkit ovat kuvitteellisia, eivätkä luvut kuvaa todellisia tuloksia.
 
 Avaa `index.html` selaimessa tai käytä GitHub Pagesia. Aiempi harjoitussovellus on saatavilla Git-historiasta.
 
